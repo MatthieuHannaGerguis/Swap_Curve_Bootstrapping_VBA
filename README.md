@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **School** | École Supérieure d'Ingénieurs Léonard-de-Vinci (ESILV) |
-| **Program** | Master 1 — Financial Engineering (Ingénierie Financière) |
+| **Program** | Master 1 - Financial Engineering (Ingénierie Financière) |
 | **Group** | A4-IF3 (ACTIF 4) |
 | **Course** | VBA for Finance |
 | **Professor** | Imad ROUGUI |
